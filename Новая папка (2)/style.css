@@ -1,0 +1,145 @@
+.menu {
+	background-color: #972aa1;
+	width: 100px;
+	color: white;
+	height: 1000px;
+	border-radius: 10px;
+	font-weight: bold;
+	padding: 10px 20px;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+a {
+	color: white;
+	text-decoration: none;
+	padding: 10px 15px;
+	display: block;
+}
+a:hover {
+	color: black;
+	background-color: white;
+}
+h1 {
+	font-size: 64px;
+	font-weight: 400;
+}
+body {
+	font-family: "poppins", sans-serif;
+}
+.main {
+	margin-left: 250px;
+	margin-top: 80px;
+}
+h2 {
+	color: #972aa1;
+	font-size: 35px;
+	font-weight: 400;
+}
+hr {
+	width: 100%;
+	border-color: #972aa1; 
+	border-width: 5px;
+	border-radius: 10px;
+	margin: 10px 0;
+}
+.images img{
+	width: 45%;
+	opacity: 0.7;
+	border-radius: 10px;
+}
+.images img:hover {
+	opacity: 1;
+}
+.member {
+	width: 30%;
+	display: inline-block;
+	margin: 10px;
+}
+.member img{
+	width: 100%;
+	border-radius: 5px;
+}
+.description {
+	background-color: #ebebebfb;
+	border-radius: 5px;
+	padding: 10px;
+}
+.prof {
+	color: grey;
+}
+.tarif-name {
+	background-color: purple;
+	color: white;
+	border-radius: 5px;
+	padding: 30px 0px;
+	text-align: center;
+
+}
+.tarif {
+	width: 45%;
+	background-color: #ebebebfb;
+	text-align: center;
+	box-sizing: border-box;
+	display: inline-block;
+	margin-right: 20px;
+}
+.tarif li {
+	border-bottom: 1px solid grey;
+	border-radius: 5px;
+	padding: 16px 0;
+	list-style-type: none;
+}
+.tarif ol {
+	padding: 0;
+	margin: 0;
+}
+.price {
+	font-size: 30px;
+	font-weight: 400;
+}
+button {
+	background-color: white;
+	color: purple;
+	padding: 15px 20px;
+	width: 30%;
+	border: none;
+	border-radius: 10px;
+}
+.tarif-pro1 {
+	background-color: #f0264b;
+	color: white;
+	border-radius: 5px;
+	padding: 30px 0px;
+	text-align: center;
+}
+.Packages {
+	padding: 10px;
+}
+.sign {
+	background-color: #f0264b;
+	color: white;
+}
+input {
+	width: 100%;
+	border: 1px solid lightgrey;
+	margin-bottom: 10px;
+	height: 20px;
+}
+.send {
+	background-color: #3d204a;
+	color: white; 
+	width: 100%;
+	height: 40px;
+}
+.Powered {
+	text-align: right;
+	padding: 50px;
+}
+.footer {
+	background-color: #ebebebfb;
+
+}
+span {
+	text-decoration: underline;
+}
